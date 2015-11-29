@@ -1,0 +1,44 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "scenario-pack",
+            "enabled": "true"
+        },
+        {
+            "name": "mocombat",
+            "enabled": "true"
+        },
+        {
+            "name": "mofarm",
+            "enabled": "true"
+        },
+        {
+            "name": "moindustry",
+            "enabled": "true"
+        },
+        {
+            "name": "mopower",
+            "enabled": "true"
+        },
+        {
+            "name": "moskin",
+            "enabled": "true"
+        },
+        {
+            "name": "mosurvival",
+            "enabled": "true"
+        },
+        {
+            "name": "motrans",
+            "enabled": "true"
+        },
+        {
+            "name": "moweather",
+            "enabled": "true"
+        }
+    ]
+}
