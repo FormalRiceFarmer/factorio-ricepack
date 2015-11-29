@@ -1,0 +1,10 @@
+{
+  "name": "moindustry_compat_mod",
+  "version": "0.0.1",
+  "title": "MoIndustry Mod Compatabilitys",
+  "author": "Ludsoe, FormalRiceFarmer",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds Mod compatability to moindustry",
+  "dependencies": ["base","moindustry"]
+}

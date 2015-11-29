@@ -37,6 +37,10 @@
             "enabled": "true"
         },
         {
+            "name": "moindustry_compat_mod",
+            "enabled": "true"
+        },
+        {
             "name": "mopower",
             "enabled": "true"
         },
