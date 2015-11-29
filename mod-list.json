@@ -9,11 +9,27 @@
             "enabled": "true"
         },
         {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "EasyPvP",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "Free Build",
+            "enabled": "true"
+        },
+        {
             "name": "mocombat",
             "enabled": "true"
         },
         {
-            "name": "mofarm",
+            "name": "Modular-Armor",
             "enabled": "true"
         },
         {
@@ -29,15 +45,35 @@
             "enabled": "true"
         },
         {
-            "name": "mosurvival",
-            "enabled": "true"
-        },
-        {
             "name": "motrans",
             "enabled": "true"
         },
         {
             "name": "moweather",
+            "enabled": "true"
+        },
+        {
+            "name": "PersonalRoboportFix",
+            "enabled": "true"
+        },
+        {
+            "name": "RoadWorks",
+            "enabled": "true"
+        },
+        {
+            "name": "STRS",
+            "enabled": "true"
+        },
+        {
+            "name": "TrainOutpost",
+            "enabled": "true"
+        },
+        {
+            "name": "turrets-range",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
             "enabled": "true"
         }
     ]
