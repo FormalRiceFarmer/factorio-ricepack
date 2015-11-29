@@ -1,0 +1,13 @@
+Aircraft mod credit:
+
+Graphics:
+YuokiTani
+
+Base code and images:
+Factorio
+
+Updated code for mod:
+Eldwen
+
+Insperation:
+FreeER's bomber tutorial.

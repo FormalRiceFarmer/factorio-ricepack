@@ -1,0 +1,51 @@
+{
+	"entity": 
+	[
+		["bodenlampe","y-bodenlampe"],
+		["tinylamp","y-tinylamp"],
+		["powerlamp","y-powerlamp"],
+		["boiler-t2","y-boiler-t2"],
+		["boiler-iv","y-boiler-iv"],
+		["dirtwasher","y-dirtwasher"],
+		["steam-turbine","y-steam-turbine"],
+		["steam-turbine-mk3","y-steam-turbine-mk3"],
+		["heat-form-press","y-heat-form-press"],
+		["notfall-generator-s1","y-notfall-generator-s1"],
+		["notfall-generator-s2","y-notfall-generator-s2"],
+		["notfall-generator-s3","y-notfall-generator-s3"],
+		["gun-turret-mk2","y-gun-turret-mk2"],
+		["gun-turret-mk3","y-gun-turret-mk3"],
+		["mud-wall","y-mud-wall"],
+		["heat-form-press","y-heat-form-press"]
+	],
+	
+	"item": 
+	[
+		["tinylamp","y-tinylamp"],
+		["dirtwasher","y-dirtwasher"],
+		["powerlamp","y-powerlamp"],
+		["coal-brikett","y-coal-brikett"],
+		["wooden-brikett","y-wooden-brikett"],
+		["wooden-brikett-packed","y-wooden-brikett-packed"],
+		["wooden-pellet","y-wooden-pellet"],
+		["wooden-pellet-packed","y-wooden-pellet-packed"],
+		["wood-gas","y-wood-gas"],
+		["boiler-t2","y-boiler-t2"],
+		["boiler-iv","y-boiler-iv"],
+		["steam-turbine","y-steam-turbine"],
+		["steam-turbine-mk3","y-steam-turbine-mk3"],
+		["pure-copper","y-pure-copper"],
+		["pure-iron","y-pure-iron"],
+		["c_mud","y-c_mud"],
+		["dry_mud","y-dry_mud"],
+		["steam-turbine-mk2","y-steam-turbine-mk2"],
+		["steam-turbine-mk3","y-steam-turbine-mk3"],
+		["heat-form-press","y-heat-form-press"],
+		["mud-wall","y-mud-wall"],
+		["notfall-generator-s1","y-notfall-generator-s1"],
+		["notfall-generator-s2","y-notfall-generator-s2"],
+		["notfall-generator-s3","y-notfall-generator-s3"],
+		["coal-stack","y-coal-stack"]
+	]
+	
+}

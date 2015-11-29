@@ -1,0 +1,8 @@
+{
+    "name": "turrets-range",
+    "version": "1.1.2",
+    "title": "Turrets range",
+    "author": "kds71",
+    "description": "Adds an item that lets player check the range of a turret.",
+    "dependencies": ["base >= 0.12.16"]
+}

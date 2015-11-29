@@ -1,0 +1,10 @@
+{
+    "title": "RoadWorks",
+    "name": "RoadWorks",
+    "version": "3.0.0",
+    "author": "Rahjital",
+    "description": "Expands vehicle travel with additional features.",
+    "dependencies": [
+        "base >= 0.12.1"
+    ]
+}
