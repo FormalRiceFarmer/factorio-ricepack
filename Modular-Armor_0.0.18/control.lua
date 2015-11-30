@@ -193,7 +193,7 @@ function tick()
 
     for i=1, #players do
         thisPlayer = players[i]
-        if (thisPlayer.character) then
+        if (thisPlayer.connected) then
             --game.getplayer(1).print(i..' '..player)
             
             --if not global.modularArmor[i] then
