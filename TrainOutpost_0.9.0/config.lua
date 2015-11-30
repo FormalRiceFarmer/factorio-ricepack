@@ -137,6 +137,16 @@ resources_config = {
 		size_distance_adjust = 0.6,
 		richness_distance_adjust = 1,
 		probability_multiplier = 0.6,
+	},["uranium-ore"] = {
+		type = "resource-ore",
+		size_base = 2,
+		size_min = 1,
+		size_max = 2,
+		size_starting_min = 1,
+		size_starting_max = 3,
+		size_distance_adjust = 0.6,
+		richness_distance_adjust = 1,
+		probability_multiplier = 0.6,
 	},
 }
 

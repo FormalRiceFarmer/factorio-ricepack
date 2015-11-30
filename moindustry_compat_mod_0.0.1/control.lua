@@ -11,9 +11,10 @@
 --remote.call("MoIndustry","RegisterOre","coal","coal",150,250,1) -- Infinite resource
 
 
-remote.call("MoIndustry","RegisterOre","y-res1","y-res1",2,500,1)
-remote.call("MoIndustry","RegisterOre","y-res2","y-res2",2,500,1)
-remote.call("MoIndustry","RegisterOre","iron-ore","iron-ore",1,1000,1)
-remote.call("MoIndustry","RegisterOre","copper-ore","copper-ore",2,500,1)
-remote.call("MoIndustry","RegisterOre","coal","coal",2,500,1)
-remote.call("MoIndustry","RegisterOre","stone","stone",2,500,1)
+remote.call("MoIndustry","RegisterOre","y-res1","y-res1",175,350,1)
+remote.call("MoIndustry","RegisterOre","y-res2","y-res2",175,350,1)
+remote.call("MoIndustry","RegisterOre","iron-ore","iron-ore",175,350,1)
+remote.call("MoIndustry","RegisterOre","copper-ore","copper-ore",175,350,1)
+remote.call("MoIndustry","RegisterOre","coal","coal",175,350,1)
+remote.call("MoIndustry","RegisterOre","stone","stone",175,350,1)
+remote.call("MoIndustry","RegisterOre","uranium-ore","uranium-ore",175,350,1)
