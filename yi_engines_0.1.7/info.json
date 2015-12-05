@@ -1,0 +1,10 @@
+
+{
+"name": "yi_engines",
+"title": "Yuoki Industries - Engines",
+"version": "0.1.7",
+"date": "2015-10-19",
+"author": "Yuoki Tani",
+"dependencies": ["base >= 0.12", "Yuoki >= 0.2.37"],
+"description": "instable experimental stuff"
+}
