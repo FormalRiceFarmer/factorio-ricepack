@@ -18,3 +18,11 @@ remote.call("MoIndustry","RegisterOre","copper-ore","copper-ore",175,350,1)
 remote.call("MoIndustry","RegisterOre","coal","coal",175,350,1)
 remote.call("MoIndustry","RegisterOre","stone","stone",175,350,1)
 remote.call("MoIndustry","RegisterOre","uranium-ore","uranium-ore",175,350,1)
+
+--Ripped this out of mofarm...
+--remote.call("MoSurvival", "RegisterFoodItem", "item-name", hunger-filled-amount)
+--
+
+--Example
+--local MaxHunger = remote.call("MoSurvival", "GetMaxHunger") --Grabs the maximum hunger settings.
+--remote.call("MoSurvival", "RegisterFoodItem", "salad", MaxHunger/15) --Sets based on a percentage of the max hunger.

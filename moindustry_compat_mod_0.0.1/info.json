@@ -6,5 +6,5 @@
   "contact": "",
   "homepage": "",
   "description": "Adds Mod compatability to moindustry",
-  "dependencies": ["base","moindustry","mopower"]
+  "dependencies": ["base","moindustry","mopower","mosurvival"]
 }
