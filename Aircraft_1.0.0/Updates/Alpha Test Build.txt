@@ -1,7 +1,0 @@
-Updates:
-7-31-2015: Weapon systems updated.
-7-30-2015: New graphics added.
-7-29-2015: Code clean up and bug fix.
-7-28-2015: Additional features.
-7-26-2015: Updated recipe, technology, controls.
-7-25-2015: Initial build complete.

@@ -1,9 +1,0 @@
-{
-	 "name": "STRS",
-	 "version": "0.0.5",
-	 "title": "SnoopyTiga-Radar-Systems",
-	 "author": "SnoopyTiga",
-	 "contact": "ghost-in-the-shell@gmx.net",
-	 "homepage": "none",
-	 "description": "Adds a long-range-radar for scouting far resources and a pulse-radar (doppler radar) to keep track of approaching biters"
-}

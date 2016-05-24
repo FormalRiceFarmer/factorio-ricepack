@@ -1,5 +1,0 @@
-require("prototypes.entities")
-require("prototypes.item")
-require("prototypes.module")
-require("prototypes.recipe")
-require("prototypes.tech")

@@ -1,0 +1,76 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "mocombat",
+            "enabled": "true"
+        },
+        {
+            "name": "Modular-Armor",
+            "enabled": "true"
+        },
+        {
+            "name": "mofarm",
+            "enabled": "true"
+        },
+        {
+            "name": "moindustry",
+            "enabled": "true"
+        },
+        {
+            "name": "momining",
+            "enabled": "true"
+        },
+        {
+            "name": "mopower",
+            "enabled": "true"
+        },
+        {
+            "name": "mosurvival",
+            "enabled": "true"
+        },
+        {
+            "name": "motrans",
+            "enabled": "true"
+        },
+        {
+            "name": "Pocket-Bots-Start",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "Single-Splitter",
+            "enabled": "true"
+        },
+        {
+            "name": "STRS",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        }
+    ]
+}
