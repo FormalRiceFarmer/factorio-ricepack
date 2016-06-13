@@ -65,6 +65,10 @@
             "enabled": "true"
         },
         {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
             "name": "yi_engines",
             "enabled": "true"
         },
