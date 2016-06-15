@@ -65,6 +65,10 @@
             "enabled": "true"
         },
         {
+            "name": "WaiTex",
+            "enabled": "true"
+        },
+        {
             "name": "Warehousing",
             "enabled": "true"
         },
