@@ -9,6 +9,10 @@
             "enabled": "true"
         },
         {
+            "name": "CreateUranium",
+            "enabled": "true"
+        },
+        {
             "name": "EvoGUI",
             "enabled": "true"
         },
@@ -18,6 +22,10 @@
         },
         {
             "name": "Modular-Armor",
+            "enabled": "true"
+        },
+        {
+            "name": "ModuleInserter",
             "enabled": "true"
         },
         {
@@ -50,10 +58,6 @@
         },
         {
             "name": "RailTanker",
-            "enabled": "true"
-        },
-        {
-            "name": "Single-Splitter",
             "enabled": "true"
         },
         {
