@@ -3,4 +3,3 @@
 	
 
 require "defines"
-require "data"
