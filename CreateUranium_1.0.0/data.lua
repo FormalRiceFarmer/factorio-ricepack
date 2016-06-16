@@ -1,3 +1,3 @@
 
 require "util"
-require("prototypes.item.ir_atomics")
+require "prototypes.recipe"

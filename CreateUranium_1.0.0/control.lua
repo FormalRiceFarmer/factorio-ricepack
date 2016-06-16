@@ -1,5 +1,2 @@
-
-	
-	
-
+require "util"
 require "defines"

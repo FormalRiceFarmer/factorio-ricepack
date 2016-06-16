@@ -12,7 +12,7 @@ data:extend(
 		result_count = 20,
 		subgroup = "y-atomics-r",
 		category = "yuoki-atomics-recipe",
-		icon = "__Yuoki__/graphics/icons/uranium-ore.png",
+		icon = "__CreateUranium__/graphics/icons/uranium-ore.png",
 	},
 				
 })
