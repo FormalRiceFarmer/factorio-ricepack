@@ -5,6 +5,10 @@
             "enabled": "true"
         },
         {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
             "name": "Aircraft",
             "enabled": "true"
         },
