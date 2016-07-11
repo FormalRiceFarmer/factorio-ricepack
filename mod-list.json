@@ -5,28 +5,12 @@
             "enabled": "true"
         },
         {
-            "name": "advanced-logistics-system",
-            "enabled": "true"
-        },
-        {
             "name": "Aircraft",
             "enabled": "true"
         },
         {
-            "name": "blueprint-string",
-            "enabled": "true"
-        },
-        {
-            "name": "blueprint_flipper",
-            "enabled": "true"
-        },
-        {
-            "name": "CreateUranium",
-            "enabled": "true"
-        },
-        {
             "name": "EvoGUI",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "mocombat",
@@ -37,31 +21,7 @@
             "enabled": "true"
         },
         {
-            "name": "ModuleInserter",
-            "enabled": "true"
-        },
-        {
-            "name": "mofarm",
-            "enabled": "true"
-        },
-        {
-            "name": "moindustry",
-            "enabled": "true"
-        },
-        {
-            "name": "momining",
-            "enabled": "true"
-        },
-        {
             "name": "mopower",
-            "enabled": "true"
-        },
-        {
-            "name": "MoreLogisticsSlots",
-            "enabled": "true"
-        },
-        {
-            "name": "mosurvival",
             "enabled": "true"
         },
         {
@@ -69,28 +29,12 @@
             "enabled": "true"
         },
         {
-            "name": "Pocket-Bots-Start",
+            "name": "moweather",
             "enabled": "true"
         },
         {
             "name": "RailTanker",
-            "enabled": "true"
-        },
-        {
-            "name": "STRS",
-            "enabled": "true"
-        },
-        {
-            "name": "TheFatController",
-            "enabled": "true"
-        },
-        {
-            "name": "WaiTex",
-            "enabled": "true"
-        },
-        {
-            "name": "Warehousing",
-            "enabled": "true"
+            "enabled": "false"
         },
         {
             "name": "yi_engines",
